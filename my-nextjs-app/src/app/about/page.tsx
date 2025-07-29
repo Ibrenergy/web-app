@@ -19,7 +19,7 @@ export default function About() {
             <Link href="/about" className="text-blue-600 dark:text-blue-400 font-semibold">
               About
             </Link>
-            <Link href="#contact" className="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition-colors">
+            <Link href="/contact" className="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition-colors">
               Contact
             </Link>
             <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition-colors">
